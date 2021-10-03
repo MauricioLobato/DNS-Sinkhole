@@ -1,0 +1,9 @@
+database.db
+list.txt
+.vscode
+target/
+.classpath
+.project
+.settings
+
+
